@@ -1,6 +1,6 @@
 <div align="center">
    <h1> GitMinion</h1>
-    <img src="./public/gitminion.png" alt="Profile Image" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;">
+    <img src="./assets/gitminion.png" alt="Profile Image" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;">
         <p>GitMinion simplifies the CI/CD workflow by providing a user-friendly interface to trigger GitLab pipelines and manage pipeline configurations.</p>
 </div>
 
